@@ -48,6 +48,8 @@ Tải và chạy container CounterFit - Fake IoT Hardware bằng cách sử dụ
 - docker pull hungldvntts/counterfit-iot:latest
 - docker run -it -p 5000:5000 hungldvntts/counterfit-iot
 ## 5. File kết nối counterFit với ThingsBoard
+
+
 import requests
 from counterfit_connection import CounterFitConnection
 from counterfit_shims_seeed_python_dht import DHT
