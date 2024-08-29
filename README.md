@@ -85,3 +85,10 @@ while True:
     time.sleep(10)  # Đọc dữ liệu mỗi 10 giây
 
 
+## Truy cập ThingsBoard và CounterFit
+ThingsBoard: Truy cập http://localhost:8080 để truy cập giao diện quản lý của ThingsBoard.
+CounterFit - Fake IoT Hardware: Truy cập http://localhost:5000 để truy cập giao diện mô phỏng phần cứng IoT.
+
+## Tài khoản đăng nhập ThingsBoard
+Tài khoản: tenant@thingsboard.org
+Mật khẩu: tenant
